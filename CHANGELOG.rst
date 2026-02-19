@@ -13,6 +13,9 @@ Change Log
 
 Unreleased
 **********
+[2.2.0]
+********
+* chore: Update Python Requirements
 
 [2.1.0]
 *******
