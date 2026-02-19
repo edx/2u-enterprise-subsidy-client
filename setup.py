@@ -133,13 +133,13 @@ README = open(os.path.join(os.path.dirname(__file__), 'README.rst'), encoding="u
 CHANGELOG = open(os.path.join(os.path.dirname(__file__), 'CHANGELOG.rst'), encoding="utf8").read()
 
 setup(
-    name='edx-enterprise-subsidy-client',
+    name='2u-enterprise-subsidy-client',
     version=VERSION,
     description="""Client for interacting with the enterprise-subsidy service.""",
     long_description=README + '\n\n' + CHANGELOG,
     author='edX',
     author_email='oscm@edx.org',
-    url='https://github.com/openedx/edx-enterprise-subsidy-client',
+    url='https://github.com/edx/2u-enterprise-subsidy-client',
     packages=find_packages(
         include=['edx_enterprise_subsidy_client', 'edx_enterprise_subsidy_client.*'],
         exclude=["*tests"],
