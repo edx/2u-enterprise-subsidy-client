@@ -85,6 +85,17 @@ PLACEHOLDER: For details on how to deploy this component, see the `deployment ho
 Getting Help
 ************
 
+
+Documentation
+=============
+
+PLACEHOLDER: Start by going through `the documentation`_.  If you need more help see below.
+
+.. _the documentation: https://2u-enterprise-subsidy-client.readthedocs.io/en/latest/
+
+More Help
+=========
+
 If you're having trouble, we have discussion forums at
 https://discuss.edx.org where you can connect with others in the
 community.
