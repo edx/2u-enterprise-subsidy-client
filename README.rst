@@ -85,16 +85,6 @@ PLACEHOLDER: For details on how to deploy this component, see the `deployment ho
 Getting Help
 ************
 
-Documentation
-=============
-
-PLACEHOLDER: Start by going through `the documentation`_.  If you need more help see below.
-
-(TODO: `Set up documentation <https://openedx.atlassian.net/wiki/spaces/DOC/pages/21627535/Publish+Documentation+on+Read+the+Docs>`_)
-
-More Help
-=========
-
 If you're having trouble, we have discussion forums at
 https://discuss.edx.org where you can connect with others in the
 community.
