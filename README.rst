@@ -71,28 +71,6 @@ Every time you develop something in this repo
   git push
 
   # Open a PR and ask for review.
-  
-More Help
-=========
-
-If you're having trouble, we have discussion forums at
-https://discuss.openedx.org where you can connect with others in the
-community.
-
-Our real-time conversations are on Slack. You can request a `Slack
-invitation`_, then join our `community Slack workspace`_.
-
-For anything non-trivial, the best path is to open an issue in this
-repository with as many details about the issue you are facing as you
-can provide.
-
-https://github.com/edx/2u-enterprise-subsidy-client/issues
-
-For more information about these options, see the `Getting Help`_ page.
-
-.. _Slack invitation: https://edx.org/slack
-.. _community Slack workspace: https://edx.slack.com/
-.. _Getting Help: https://edx.org/getting-help
 
 License
 *******
